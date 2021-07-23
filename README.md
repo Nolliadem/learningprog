@@ -8,3 +8,4 @@ A machine is incapable of understanding non-logical orders, just as they are inc
 An algorithm is like a cake recipe, it is a set of pre-programmed instructions in a software or application that arrive at certain task or problem solving 
 
 # Machine learning 
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
